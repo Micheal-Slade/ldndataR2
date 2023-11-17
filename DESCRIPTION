@@ -8,3 +8,6 @@ Description: A package allowing R users to interact with the (London Datastore)[
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
